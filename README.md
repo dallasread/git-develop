@@ -3,7 +3,7 @@ Some git add-ons that help make the git-develop module easier.
 
 # Install
 
-Download the [zip]() and extract it.
+Download the [zip](https://github.com/Mike96Angelo/git-develop/archive/master.zip) and extract it.
 
 Then add the extracted folder to your path.
 
