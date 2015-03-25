@@ -11,6 +11,6 @@ On OSX:
 
 `$ echo 'export PATH="<path-to-extracted-git-develop>:$PATH"' >> ~/.bash_profile`
 
-On Linx:
+On Linux:
 
 `$ echo 'export PATH="<path-to-extracted-git-develop>:$PATH"' >> ~/.bashrc`
